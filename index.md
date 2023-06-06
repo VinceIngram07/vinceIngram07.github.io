@@ -8,17 +8,13 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-Vincent Ingram/
-Morgan State University/
-Computer Science Senior 2024/
-Vinceingram7@gmail.com
+My name is Vincent Ingram, and I am thrilled to share my journey and research project with you. Currently, I am enrolled at Morgan State University, pursuing a Computer Science degree. I am expected to graduate in 2024. Throughout my academic journey, I have developed a strong interest in Virtual Reality and Mobile App Development. I am dedicated to exploring innovative solutions and contributing to knowledge advancement in different fields.
+
+If you have questions or would like to contact me, please feel free to reach out via email at vinceingram7@gmail.com.
 
 ## About My Mentor
 
-Chris Crawford/
-The University of Alabama/
-Pysiological Computing Education
-
+I am fortunate to have Chris Crawford's guidance and mentorship. He is an accomplished Computer Science researcher affiliated with The University of Alabama. Dr. Crawford brings a wealth of knowledge and expertise to our collaboration, and their guidance has been invaluable in shaping my research project.
 
 ## About My Project
 
