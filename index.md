@@ -8,11 +8,17 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Vincent Ingram/
+Morgan State University/
+Computer Science Senior 2024/
+Vinceingram7@gmail.com
 
 ## About My Mentor
 
-Mentor info goes here.
+Chris Crawford/
+The University of Alabama/
+Pysiological Cmputing Education
+
 
 ## About My Project
 
