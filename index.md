@@ -17,7 +17,7 @@ Vinceingram7@gmail.com
 
 Chris Crawford/
 The University of Alabama/
-Pysiological Cmputing Education
+Pysiological Computing Education
 
 
 ## About My Project
