@@ -16,6 +16,7 @@ If you have questions or would like to contact me, please feel free to reach out
 
 I am fortunate to have Chris Crawford's guidance and mentorship. He is an accomplished Computer Science researcher affiliated with The University of Alabama. Dr. Crawford brings a wealth of knowledge and expertise to our collaboration, and their guidance has been invaluable in shaping my research project.
 
+[Mentors Website](https://htilua.org/about-the-pi)
 ## About My Project
 
 - Problem: There is a lack of research focusing on exploring ways to build educational software that integrates physical robots and physiological sensors.
@@ -25,7 +26,7 @@ I am fortunate to have Chris Crawford's guidance and mentorship. He is an accomp
     - Map output from physiological sensors to a physical robot.
 - Expected Outcome: The project is expected to result in a conference poster presentation at the end of the REU program. The poster will focus on the system’s technical architecture.
 
-[My Final Report](files/finalreport.pdf)
+[My Final Report](files/finalreport2.pdf)
 
 ## My Blog
 
