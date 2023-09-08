@@ -26,7 +26,7 @@ I am fortunate to have Chris Crawford's guidance and mentorship. He is an accomp
     - Map output from physiological sensors to a physical robot.
 - Expected Outcome: The project is expected to result in a conference poster presentation at the end of the REU program. The poster will focus on the system’s technical architecture.
 
-[My Final Report](files/finalreport (2).pdf)
+[My Final Report](files/finalreport2 (done).pdf)
 
 ## My Blog
 
